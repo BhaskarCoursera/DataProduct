@@ -1,5 +1,5 @@
 ---
-title       : Coronary Heart Disease Prediction Algorithm
+title       : Coronary Heart Disease Prediction Application
 subtitle    : 
 author      : Bhaskar Bhattacharya
 job         : Data Scientist
