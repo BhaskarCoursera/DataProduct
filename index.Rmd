@@ -24,15 +24,18 @@ knit        : slidify::knit2slides
 ## User Instructions for the Prediction Application
   
     
-### Step 1 - Enter the Age of the person
+### Step 1 - Go to this URL - http://bhaskarb.shinyapps.io/DataProducts
+#### 
+  
+### Step 2 - Enter the Age of the person in the left side panel
 #### 
   
   
-### Step 2 - Enter the Body Mass Index of the person
+### Step 3 - Enter the Body Mass Index of the person in the left side panel
 ####  
   
   
-### Step 3 - Press Submit button to get results in % likelihood of having Coronary Heart Disease
+### Step 4 - Press Submit button to get results in % likelihood of having Coronary Heart Disease
 #### 
 
 ---
